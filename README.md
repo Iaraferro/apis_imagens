@@ -1,4 +1,4 @@
-# 🐶🔴 APIS de Imagens
+# 🐶APIS de Imagens
 
 Aplicativo **Flutter** desenvolvido como atividade prática da disciplina, com o objetivo de consumir **APIs públicas** e manipular respostas JSON, estados e persistência local.
 
@@ -6,7 +6,7 @@ O app reúne três telas independentes, cada uma consumindo uma API diferente e 
 
 ---
 
-## 📱 Telas e funcionalidades
+## Telas e funcionalidades
 
 ### 🐶 Galeria de Cães — [Dog CEO API](https://dog.ceo/dog-api/)
 - Sorteio de fotos aleatórias de cachorros.
@@ -14,7 +14,7 @@ O app reúne três telas independentes, cada uma consumindo uma API diferente e 
 - **Contador** de fotos sorteadas, atualizado com `setState`.
 - Personalização de título, cor de fundo, frase acima da imagem e texto do botão.
 
-### 🔴 Pokédex — [PokéAPI](https://pokeapi.co/)
+### Pokédex — [PokéAPI](https://pokeapi.co/)
 - Busca por **nome ou número** do Pokémon.
 - Botão de **Pokémon aleatório** (nº 1 a 151) usando `Random().nextInt(151) + 1`.
 - Resultado exibido em um **`Card`** com **ID**, nome, sprite, altura e peso.
@@ -29,7 +29,7 @@ O app reúne três telas independentes, cada uma consumindo uma API diferente e 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **[Flutter](https://flutter.dev/)** — framework de UI multiplataforma.
 - **[http](https://pub.dev/packages/http)** — requisições HTTP para as APIs.
@@ -38,7 +38,7 @@ O app reúne três telas independentes, cada uma consumindo uma API diferente e 
 
 ---
 
-## ⚙️ Como executar
+## Como executar
 
 ### Pré-requisitos
 - Flutter instalado ([guia oficial](https://docs.flutter.dev/get-started/install)).
